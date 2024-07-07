@@ -1,7 +1,6 @@
 # DrawBot
 
 
-
 This project aims to create an CNC based drawing robot that can produce highly precise artworks from digital designs through a combination of hardware and software components.
 
 <br>
